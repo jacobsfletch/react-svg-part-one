@@ -22,7 +22,7 @@ body {
 	flex-direction: column;
 	justify-content: center;
 	height: 5rem;
-	padding: 4rem 1rem;
+	padding: 4rem 4rem;
 	background: linear-gradient(133deg, #fa7161, #f9c62d);
 	border-radius: 8px;
 }
